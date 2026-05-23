@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.residuos.model","l":"Administrador"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"com.residuos.model","l":"CamionRecolector"},{"p":"com.residuos.model","l":"Contenedor"},{"p":"com.residuos.model","l":"Operario"},{"p":"com.residuos.model","l":"Ruta"},{"p":"com.residuos.model","l":"Vehiculo"}];updateSearchResults();
